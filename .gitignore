@@ -1,0 +1,29 @@
+# R files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Sequencing files
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+
+# Cache folders
+cache/
+tmp/
+
+# Large output folders
+results/temp/
